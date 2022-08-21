@@ -36,6 +36,9 @@ SQL Server是一个产品的名字
 7.数据库（Database）是按照数据结构来存储、组织和管理数据的仓库。是一个储存在计算机内的，
 有组织，统一管理的大量数据的集合。Database由DatabaseEngine管理。
 
+我们下载学习用的数据库是 OLTP（online transactional processing）線上交易處理是指透過資訊系統、電腦網路及資料庫，以線上交易的方式處理一般即時性的作業資料，还有OLAP(online analytical processing)data warehouse線上分析處理
+OLAP通常與OLTP（線上交易處理）形成對比，OLTP的特點是查詢的複雜性要小得多，而且查詢量要大得多，以處理事務，而不是用於商業智慧型或報告。OLAP系統主要針對讀取進行最佳化，而OLTP得能處理各種查詢（讀取、插入、更新和刪除）。
+
 数据库的类别：关系型数据库（Relational Database）和非关系型数据库。 
 RelationalDatabase受到预设关系的约束。常常使用在对数据完整性，正确性要求比较高的应用上。Ex: 银行；Market.
 
