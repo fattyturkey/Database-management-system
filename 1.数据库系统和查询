@@ -22,7 +22,9 @@ MySQL的客户端是MySQL Workbench.
 
 6.用户怎样操作数据库：| 用户 --操作--> Client（SSMS） --指示--> Server（SQL Server） --查询--> 数据库 | 
 准则：无论成功失败都要给用户一个反馈※※※※※※※
-           
+   
+   
+SQL Server是一个产品的名字   
 ![image](https://github.com/fattyturkey/Database-management-system/blob/main/IMG_0942.JPG)
 
 
