@@ -15,14 +15,18 @@ SQLServer用的是T-SQL（T指Transaction）。
 C/S架构这种架构的软件有服务器和客户端，服务器负责数据的管理，客户端来完成与用户的交互任务.
 
 5.图形用户界面 Graphical User Interface (GUI
+采用图形方式显示的计算机操作用户界面。 
 为了让用户能够以可视化的形式与DBMS交互，基本各个厂商都有自己配套的带有图形用户界面的客户端程序
+SQL server的图形用户界面是Sql server management studio.(SSMS)
+MySQL的客户端是MySQL Workbench.
 
+6.用户怎样操作数据库：| 用户 --操作--> Client（SSMS） --指示--> Server（SQL Server） --查询--> 数据库 | 
+准则：无论成功失败都要给用户一个反馈※※※※※※※
 
+7.数据库（Database）是按照数据结构来存储、组织和管理数据的仓库。是一个储存在计算机内的，
+有组织，统一管理的大量数据的集合。Database由DatabaseEngine管理。
 
-
-
-
-
+数据库的类别：关系型数据库（Relational Database）和非关系型数据库。 
 
 
 
