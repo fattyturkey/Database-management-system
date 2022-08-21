@@ -1,4 +1,6 @@
 # Database-management-system
+
+# 1.数据库系统和查询
 1.数据库管理系统 Database Management System  (DBMS
 是一种操纵和管理数据库的软件，由一套复杂组件协同工作，用于建立、使用和维护数据库。 
 最重要的功能就是通过DB engine操作数据库里的数据
@@ -50,3 +52,7 @@ Load装载，将数据包装给下游的数据分析师、数据科学家
 也被称为查或访问数据库。对数据库查询（Query）也指访问数据库。也就是通过客户端向DBMS问询数据库中的数据。
 查询这一行动包含了四个行为，分别是：增、删、查、改，其中只有“查”不对文件做出改动。在英文中这四个行为被称作
 （CRUD）C: Create[增]；R: Read[查]；U: Update[改]；D: Delete[删]。
+
+# 2.查询
+在SSMS中，对某一数据库新建查询，需在左侧图表中选中数据库，或在查询中使用use语句。
+![image](https://github.com/fattyturkey/Database-management-system/blob/main/IMG_0667_%E5%89%AF%E6%9C%AC.png)
