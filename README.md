@@ -11,7 +11,7 @@
 3.结构化查询语言 Structured Query Language  (SQL
 是一种数据库查询和程序设计语言，用于存取数据以及查询、更新和管理关系数据库系统。SQL有国际标准，
 但各厂商在标准基础上额外添加了一些自己独特的功能，不同厂商的SQL会有些许不同。就比如微软的
-SQL Server用的是T-SQL（T指Transaction）。
+SQL Server用的是T-SQL（T指Transact）。
 
 4.客户端client/服务器server 软件架构：C/S架构
 运行着的数据库管理系统叫做服务器。
